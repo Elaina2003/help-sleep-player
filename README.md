@@ -17,7 +17,7 @@
 
 ## 📸 应用截图
 
-![界面](img/app_img_ios.png)
+![界面](img/player.png)
 
 ## 🚀 快速开始
 
