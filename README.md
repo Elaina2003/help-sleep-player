@@ -28,7 +28,7 @@
 ```bash
 # 使用 Node.js
 npx serve
-
+```
 然后在浏览器访问：`http://localhost:8000`
 
 ### 在线部署
